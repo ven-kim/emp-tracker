@@ -1,0 +1,27 @@
+{
+  "name": "emp-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ven-kim/emp-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ven-kim/emp-tracker/issues"
+  },
+  "homepage": "https://github.com/ven-kim/emp-tracker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
