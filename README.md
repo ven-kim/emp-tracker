@@ -3,7 +3,7 @@ This application is a database system that uses node, inquirer, and MySQL to all
 
 ## Screenshot of the Application
 
-
+![week12challenge](https://user-images.githubusercontent.com/85568921/133013877-4f73d574-86b4-4fed-92d0-41be09f37a87.png)
 
 ## Video of the Application
 
