@@ -7,7 +7,7 @@ This application is a database system that uses node, inquirer, and MySQL to all
 
 ## Video of the Application
 
-
+https://drive.google.com/file/d/1JiW6mvxvgdD2-wMJClXBuHkrU_GTDZqP/view
 
 ## Contributions
 Made by Ven Kim
